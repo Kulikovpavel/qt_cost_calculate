@@ -7,6 +7,7 @@ from PySide.QtCore import *
 from PySide.QtGui import *
 
 
+
 PROPERTIES = u"""Стоимость,
 Ср.срок службы,
 Стоимость ТОиР 1 судна""".split(',')
